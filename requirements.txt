@@ -1,0 +1,5 @@
+adapter-transformers==3.0.0
+transformers==4.29.2
+datasets
+torch
+pandas
